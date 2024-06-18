@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - Prints "with proper grammar, but the outcome is
- *               a piece of art," followed by a new line.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: Prints a specific string with proper grammar.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("with proper frammar, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 
 	return (0);
 }
