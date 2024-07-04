@@ -1,0 +1,5 @@
+#include <stdio.h>
+#
+#int *trenzas=&8;
+#int **R4L=&trenzas;
+#
